@@ -1,0 +1,15 @@
+==4476== Memcheck, a memory error detector
+==4476== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==4476== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==4476== Command: ./../src/main input/sensors_clear_easy_5.dat
+==4476== Parent PID: 4475
+==4476== 
+==4476== 
+==4476== HEAP SUMMARY:
+==4476==     in use at exit: 0 bytes in 0 blocks
+==4476==   total heap usage: 1,354 allocs, 1,354 frees, 44,340 bytes allocated
+==4476== 
+==4476== All heap blocks were freed -- no leaks are possible
+==4476== 
+==4476== For lists of detected and suppressed errors, rerun with: -s
+==4476== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

@@ -1,0 +1,15 @@
+==4490== Memcheck, a memory error detector
+==4490== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==4490== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==4490== Command: ./../src/main input/sensors_analyse_2.dat
+==4490== Parent PID: 4489
+==4490== 
+==4490== 
+==4490== HEAP SUMMARY:
+==4490==     in use at exit: 0 bytes in 0 blocks
+==4490==   total heap usage: 1,446 allocs, 1,446 frees, 43,832 bytes allocated
+==4490== 
+==4490== All heap blocks were freed -- no leaks are possible
+==4490== 
+==4490== For lists of detected and suppressed errors, rerun with: -s
+==4490== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
